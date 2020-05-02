@@ -1,5 +1,8 @@
 _repo: Il-dolce-far-niente-Scene-della-vita-veneziana-del-secolo-passato_61929
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61929-h/images/cover.jpg
 creator:
   author:
     agent_name: Caccianiga, Antonio
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37438
     wikipedia: https://it.wikipedia.org/wiki/Antonio_Caccianiga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61929#Il-dolce-far-niente-Scene-della-vita-veneziana-del-secolo-passato
 gutenberg_issued: '2020-04-25'
 gutenberg_type: Text
 identifiers:
